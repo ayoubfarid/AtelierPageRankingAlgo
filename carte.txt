@@ -1,0 +1,1000 @@
+-80.3482 101.116 Zone 0 23282 0
+4 dest : 446 poids : 83 , dest : 103 poids : 643 , dest : 346 poids : 752 , dest : 339 poids : 272 , 
+81.8973 -58.2678 Zone 1 25438 1
+4 dest : 292 poids : 919 , dest : 82 poids : 862 , dest : 223 poids : 815 , dest : 66 poids : 522 , 
+-80.123 -80.1422 Zone 2 13742 2
+4 dest : 166 poids : 125 , dest : 306 poids : 918 , dest : 302 poids : 39 , dest : 362 poids : 410 , 
+-87.4895 -20.7154 Zone 3 4296 3
+1 dest : 246 poids : 145 , 
+59.2099 95.7543 Zone 4 11869 4
+2 dest : 173 poids : 799 , dest : 382 poids : 696 , 
+-81.749 -88.1515 Zone 5 2380 5
+0 
+-41.1313 129.351 Zone 6 22935 6
+4 dest : 238 poids : 711 , dest : 278 poids : 49 , dest : 187 poids : 39 , dest : 68 poids : 415 , 
+-32.1058 -43.4468 Zone 7 30001 7
+3 dest : 312 poids : 347 , dest : 67 poids : 825 , dest : 201 poids : 65 , 
+-63.6869 -6.72933 Zone 8 23842 8
+3 dest : 169 poids : 369 , dest : 192 poids : 223 , dest : 397 poids : 946 , 
+-65.4942 -82.1528 Zone 9 10931 9
+3 dest : 355 poids : 198 , dest : 489 poids : 582 , dest : 461 poids : 885 , 
+75.3108 -135.043 Zone 10 13451 10
+4 dest : 382 poids : 13 , dest : 132 poids : 448 , dest : 499 poids : 383 , dest : 249 poids : 218 , 
+68.9825 133.142 Zone 11 943 11
+2 dest : 215 poids : 331 , dest : 24 poids : 651 , 
+7.9516 -63.7172 Zone 12 24242 12
+0 
+-79.277 56.5538 Zone 13 4772 13
+0 
+-22.5034 86.064 Zone 14 25245 14
+4 dest : 2 poids : 317 , dest : 278 poids : 111 , dest : 479 poids : 409 , dest : 467 poids : 611 , 
+-8.23725 28.5269 Zone 15 10445 15
+2 dest : 411 poids : 396 , dest : 211 poids : 232 , 
+-67.9772 170.672 Zone 16 16486 16
+3 dest : 46 poids : 4 , dest : 110 poids : 114 , dest : 19 poids : 46 , 
+-85.6877 -117.42 Zone 17 13163 17
+1 dest : 46 poids : 573 , 
+-84.0947 -122.748 Zone 18 6778 18
+3 dest : 106 poids : 902 , dest : 422 poids : 948 , dest : 419 poids : 719 , 
+-46.3939 59.8389 Zone 19 26328 19
+4 dest : 267 poids : 107 , dest : 122 poids : 337 , dest : 111 poids : 626 , dest : 374 poids : 901 , 
+63.4672 72.2318 Zone 20 32272 20
+4 dest : 467 poids : 596 , dest : 346 poids : 79 , dest : 372 poids : 983 , dest : 212 poids : 606 , 
+81.7051 -35.2617 Zone 21 21345 21
+1 dest : 63 poids : 483 , 
+-3.82061 -171.112 Zone 22 14954 22
+0 
+-14.2634 -172.485 Zone 23 2665 23
+4 dest : 212 poids : 741 , dest : 206 poids : 270 , dest : 115 poids : 996 , dest : 451 poids : 755 , 
+-58.8693 -179.341 Zone 24 3397 24
+1 dest : 68 poids : 578 , 
+61.7423 -3.98267 Zone 25 25128 25
+4 dest : 294 poids : 999 , dest : 249 poids : 38 , dest : 84 poids : 225 , dest : 359 poids : 938 , 
+57.04 -176.957 Zone 26 28158 26
+0 
+60.6272 168.772 Zone 27 29125 27
+2 dest : 427 poids : 598 , dest : 108 poids : 32 , 
+-81.1393 -13.8597 Zone 28 14120 28
+2 dest : 39 poids : 809 , dest : 297 poids : 883 , 
+43.8176 -154.082 Zone 29 18196 29
+4 dest : 50 poids : 793 , dest : 410 poids : 936 , dest : 445 poids : 628 , dest : 219 poids : 361 , 
+15.4335 129.275 Zone 30 32007 30
+1 dest : 173 poids : 388 , 
+-62.5883 96.4904 Zone 31 17439 31
+0 
+44.0043 -42.1613 Zone 32 13310 32
+4 dest : 94 poids : 292 , dest : 134 poids : 769 , dest : 237 poids : 845 , dest : 106 poids : 421 , 
+24.8546 145.04 Zone 33 11764 33
+4 dest : 351 poids : 907 , dest : 193 poids : 365 , dest : 213 poids : 510 , dest : 126 poids : 361 , 
+-38.3242 -42.1613 Zone 34 29794 34
+1 dest : 395 poids : 156 , 
+87.1764 97.5451 Zone 35 21518 35
+4 dest : 322 poids : 271 , dest : 442 poids : 556 , dest : 428 poids : 785 , dest : 95 poids : 262 , 
+-84.254 87.0968 Zone 36 23608 36
+3 dest : 184 poids : 456 , dest : 370 poids : 25 , dest : 108 poids : 325 , 
+-34.5119 -133.57 Zone 37 14008 37
+4 dest : 470 poids : 6 , dest : 50 poids : 490 , dest : 208 poids : 602 , dest : 389 poids : 581 , 
+41.9773 63.882 Zone 38 8894 38
+3 dest : 368 poids : 430 , dest : 19 poids : 761 , dest : 317 poids : 262 , 
+-3.05704 -129.67 Zone 39 21760 39
+1 dest : 407 poids : 445 , 
+32.309 -151.27 Zone 40 31898 40
+0 
+-85.6108 102.983 Zone 41 1823 41
+2 dest : 472 poids : 845 , dest : 166 poids : 357 , 
+44.5262 -121.54 Zone 42 11716 42
+1 dest : 434 poids : 993 , 
+81.3755 25.8901 Zone 43 6732 43
+1 dest : 83 poids : 735 , 
+64.2582 -141.953 Zone 44 11721 44
+4 dest : 448 poids : 45 , dest : 35 poids : 571 , dest : 305 poids : 32 , dest : 164 poids : 6 , 
+49.2175 110.641 Zone 45 6633 45
+0 
+-25.5742 -151.698 Zone 46 29300 46
+3 dest : 345 poids : 608 , dest : 145 poids : 388 , dest : 299 poids : 577 , 
+46.2072 -175.627 Zone 47 6978 47
+3 dest : 303 poids : 508 , dest : 304 poids : 270 , dest : 232 poids : 694 , 
+-24.7667 70.4849 Zone 48 4754 48
+2 dest : 494 poids : 649 , dest : 236 poids : 48 , 
+25.8269 -115.772 Zone 49 5280 49
+3 dest : 60 poids : 271 , dest : 231 poids : 524 , dest : 310 poids : 95 , 
+-71.5204 -156.335 Zone 50 12610 50
+3 dest : 217 poids : 713 , dest : 437 poids : 685 , dest : 443 poids : 16 , 
+33.2759 95.963 Zone 51 15489 51
+0 
+21.8772 102.907 Zone 52 25828 52
+2 dest : 376 poids : 869 , dest : 341 poids : 719 , 
+68.208 -30.1749 Zone 53 20683 53
+3 dest : 486 poids : 953 , dest : 239 poids : 992 , dest : 266 poids : 360 , 
+-82.2544 -52.7525 Zone 54 27393 54
+0 
+-80.7382 -48.4347 Zone 55 7258 55
+0 
+0.876186 -23.3412 Zone 56 29882 56
+4 dest : 351 poids : 799 , dest : 97 poids : 26 , dest : 260 poids : 404 , dest : 194 poids : 114 , 
+20.7675 69.2325 Zone 57 28849 57
+4 dest : 39 poids : 862 , dest : 299 poids : 974 , dest : 497 poids : 675 , dest : 182 poids : 617 , 
+-89.4836 22.0557 Zone 58 19377 58
+1 dest : 86 poids : 759 , 
+-85.7097 89.9313 Zone 59 3224 59
+3 dest : 17 poids : 707 , dest : 106 poids : 562 , dest : 364 poids : 394 , 
+-64.3461 137.185 Zone 60 15930 60
+2 dest : 19 poids : 361 , dest : 212 poids : 53 , 
+78.2223 -163.399 Zone 61 27527 61
+3 dest : 104 poids : 431 , dest : 181 poids : 186 , dest : 308 poids : 901 , 
+-81.4194 135.284 Zone 62 27693 62
+3 dest : 430 poids : 283 , dest : 417 poids : 951 , dest : 280 poids : 665 , 
+-53.376 -179.033 Zone 63 11350 63
+3 dest : 222 poids : 529 , dest : 334 poids : 728 , dest : 449 poids : 843 , 
+11.764 -12.0469 Zone 64 6487 64
+2 dest : 433 poids : 492 , dest : 356 poids : 331 , 
+37.6705 -154.379 Zone 65 11184 65
+1 dest : 451 poids : 29 , 
+30.9412 156.159 Zone 66 29481 66
+4 dest : 98 poids : 328 , dest : 33 poids : 94 , dest : 445 poids : 443 , dest : 93 poids : 824 , 
+3.87555 -37.7227 Zone 67 8895 67
+4 dest : 427 poids : 979 , dest : 240 poids : 600 , dest : 300 poids : 834 , dest : 19 poids : 276 , 
+70.658 -60.3113 Zone 68 16456 68
+2 dest : 7 poids : 928 , dest : 17 poids : 838 , 
+-31.1005 -133.032 Zone 69 23330 69
+1 dest : 20 poids : 599 , 
+45.5754 -42.1503 Zone 70 15976 70
+3 dest : 479 poids : 926 , dest : 58 poids : 300 , dest : 336 poids : 133 , 
+0.903653 -86.2947 Zone 71 928 71
+0 
+12.7253 -147.787 Zone 72 9055 72
+1 dest : 120 poids : 394 , 
+-15.6038 93.7217 Zone 73 29532 73
+3 dest : 201 poids : 157 , dest : 176 poids : 27 , dest : 260 poids : 600 , 
+61.3413 69.3313 Zone 74 1559 74
+2 dest : 260 poids : 364 , dest : 53 poids : 736 , 
+-29.9854 -171.101 Zone 75 15351 75
+3 dest : 408 poids : 5 , dest : 86 poids : 253 , dest : 445 poids : 473 , 
+-33.5176 -44.908 Zone 76 20865 76
+1 dest : 338 poids : 77 , 
+74.0529 71.9791 Zone 77 25749 77
+4 dest : 133 poids : 669 , dest : 408 poids : 916 , dest : 296 poids : 372 , dest : 80 poids : 12 , 
+-21.5641 156.225 Zone 78 23943 78
+0 
+32.6881 150.501 Zone 79 20170 79
+0 
+-42.0597 145.194 Zone 80 3258 80
+0 
+-34.6986 34.0422 Zone 81 29444 81
+3 dest : 450 poids : 386 , dest : 261 poids : 810 , dest : 150 poids : 407 , 
+29.9799 40.1288 Zone 82 22581 82
+1 dest : 298 poids : 731 , 
+51.261 -160.663 Zone 83 21821 83
+0 
+-24.492 -169.651 Zone 84 22897 84
+2 dest : 438 poids : 475 , dest : 227 poids : 288 , 
+14.1426 47.6327 Zone 85 26412 85
+3 dest : 177 poids : 885 , dest : 484 poids : 729 , dest : 313 poids : 430 , 
+-72.6685 82.3395 Zone 86 16082 86
+2 dest : 431 poids : 779 , dest : 132 poids : 575 , 
+-23.8713 -25.0002 Zone 87 1038 87
+0 
+-75.5635 -178.737 Zone 88 28946 88
+3 dest : 282 poids : 411 , dest : 237 poids : 788 , dest : 224 poids : 810 , 
+-61.5665 70.0345 Zone 89 3564 89
+4 dest : 395 poids : 907 , dest : 424 poids : 603 , dest : 353 poids : 978 , dest : 450 poids : 156 , 
+-32.6936 14.2882 Zone 90 205 90
+0 
+-22.0859 68.5623 Zone 91 11623 91
+4 dest : 345 poids : 39 , dest : 122 poids : 590 , dest : 196 poids : 176 , dest : 123 poids : 15 , 
+-20.0314 -96.6881 Zone 92 9601 92
+2 dest : 190 poids : 786 , dest : 189 poids : 310 , 
+55.3371 -77.022 Zone 93 21946 93
+3 dest : 327 poids : 310 , dest : 424 poids : 458 , dest : 17 poids : 915 , 
+-71.5589 85.9981 Zone 94 9777 94
+3 dest : 171 poids : 310 , dest : 492 poids : 809 , dest : 122 poids : 65 , 
+-0.178533 -109.685 Zone 95 21492 95
+3 dest : 64 poids : 787 , dest : 36 poids : 673 , dest : 198 poids : 628 , 
+69.5538 118.705 Zone 96 8340 96
+0 
+-7.56157 -142.272 Zone 97 9489 97
+0 
+30.9302 179.308 Zone 98 7928 98
+2 dest : 45 poids : 228 , dest : 306 poids : 310 , 
+83.853 28.7356 Zone 99 26112 99
+4 dest : 186 poids : 259 , dest : 211 poids : 451 , dest : 117 poids : 926 , dest : 81 poids : 160 , 
+48.2727 -153.984 Zone 100 23098 100
+1 dest : 42 poids : 122 , 
+-37.0717 162.355 Zone 101 19067 101
+3 dest : 489 poids : 62 , dest : 240 poids : 223 , dest : 105 poids : 743 , 
+29.2108 -132.252 Zone 102 14043 102
+0 
+59.1055 113.849 Zone 103 20684 103
+1 dest : 176 poids : 148 , 
+-48.7725 89.1513 Zone 104 18114 104
+4 dest : 233 poids : 526 , dest : 192 poids : 511 , dest : 446 poids : 683 , dest : 481 poids : 509 , 
+73.2069 152.797 Zone 105 12054 105
+2 dest : 171 poids : 659 , dest : 241 poids : 287 , 
+3.56792 -42.403 Zone 106 22959 106
+2 dest : 43 poids : 397 , dest : 364 poids : 584 , 
+10.1599 -71.0892 Zone 107 2353 107
+1 dest : 192 poids : 461 , 
+-24.547 88.1625 Zone 108 18810 108
+3 dest : 481 poids : 305 , dest : 28 poids : 552 , dest : 477 poids : 88 , 
+-3.69976 -113.893 Zone 109 26167 109
+2 dest : 270 poids : 319 , dest : 315 poids : 503 , 
+11.4673 111.092 Zone 110 12722 110
+2 dest : 254 poids : 336 , dest : 174 poids : 257 , 
+-60.7425 -130.175 Zone 111 24321 111
+4 dest : 356 poids : 245 , dest : 107 poids : 179 , dest : 346 poids : 70 , dest : 463 poids : 276 , 
+-43.3616 -171.441 Zone 112 18572 112
+0 
+54.991 35.6243 Zone 113 16808 113
+4 dest : 22 poids : 171 , dest : 72 poids : 424 , dest : 259 poids : 559 , dest : 397 poids : 973 , 
+78.0355 -91.3486 Zone 114 11719 114
+4 dest : 111 poids : 845 , dest : 80 poids : 414 , dest : 278 poids : 896 , dest : 131 poids : 307 , 
+-58.7704 -165.069 Zone 115 6993 115
+0 
+44.4493 -70.5399 Zone 116 12620 116
+1 dest : 262 poids : 933 , 
+55.1064 -152.599 Zone 117 21519 117
+1 dest : 281 poids : 473 , 
+55.8425 133.384 Zone 118 2593 118
+4 dest : 351 poids : 803 , dest : 101 poids : 834 , dest : 12 poids : 457 , dest : 205 poids : 630 , 
+7.23746 -120.145 Zone 119 26315 119
+4 dest : 286 poids : 401 , dest : 237 poids : 606 , dest : 252 poids : 922 , dest : 134 poids : 750 , 
+75.8876 -77.2088 Zone 120 20629 120
+1 dest : 86 poids : 132 , 
+70.9217 -86.8001 Zone 121 25270 121
+2 dest : 226 poids : 371 , dest : 76 poids : 428 , 
+8.73165 123.869 Zone 122 1998 122
+1 dest : 206 poids : 782 , 
+17.0815 -172.496 Zone 123 18803 123
+1 dest : 81 poids : 181 , 
+-84.3913 136.822 Zone 124 2784 124
+1 dest : 210 poids : 610 , 
+-30.7215 -106.631 Zone 125 19361 125
+0 
+-79.3539 166.135 Zone 126 22851 126
+4 dest : 430 poids : 564 , dest : 108 poids : 570 , dest : 193 poids : 351 , dest : 143 poids : 85 , 
+-15.005 145.106 Zone 127 14093 127
+2 dest : 487 poids : 67 , dest : 162 poids : 686 , 
+68.6804 -127.077 Zone 128 4250 128
+3 dest : 499 poids : 666 , dest : 100 poids : 158 , dest : 280 poids : 747 , 
+81.727 -118.255 Zone 129 18023 129
+2 dest : 311 poids : 449 , dest : 79 poids : 112 , 
+-87.8356 134.647 Zone 130 6288 130
+2 dest : 271 poids : 58 , dest : 298 poids : 40 , 
+-64.4505 -161.334 Zone 131 31442 131
+1 dest : 46 poids : 65 , 
+-13.1483 105.994 Zone 132 32028 132
+3 dest : 218 poids : 163 , dest : 372 poids : 807 , dest : 146 poids : 475 , 
+25.0468 -77.7142 Zone 133 31913 133
+4 dest : 388 poids : 804 , dest : 315 poids : 737 , dest : 174 poids : 202 , dest : 452 poids : 891 , 
+41.3126 132.746 Zone 134 10841 134
+3 dest : 400 poids : 545 , dest : 278 poids : 142 , dest : 493 poids : 832 , 
+53.1782 117.398 Zone 135 3659 135
+1 dest : 455 poids : 786 , 
+-26.7333 -179.132 Zone 136 6180 136
+0 
+-49.9152 160.444 Zone 137 609 137
+3 dest : 180 poids : 688 , dest : 81 poids : 871 , dest : 38 poids : 674 , 
+37.0388 1.98309 Zone 138 6408 138
+2 dest : 496 poids : 872 , dest : 291 poids : 951 , 
+-20.7181 161.4 Zone 139 15128 139
+0 
+-18.4768 -86.075 Zone 140 23791 140
+2 dest : 121 poids : 663 , dest : 112 poids : 438 , 
+-67.9058 -162.114 Zone 141 30713 141
+3 dest : 111 poids : 564 , dest : 140 poids : 901 , dest : 329 poids : 779 , 
+-12.6374 34.185 Zone 142 13220 142
+0 
+60.1712 134.065 Zone 143 13023 143
+1 dest : 122 poids : 900 , 
+29.5074 -3.13669 Zone 144 2731 144
+3 dest : 118 poids : 454 , dest : 467 poids : 347 , dest : 121 poids : 602 , 
+-59.3197 -175.034 Zone 145 25588 145
+0 
+30.9412 -124.287 Zone 146 8273 146
+0 
+-12.7033 -2.16987 Zone 147 20824 147
+4 dest : 372 poids : 594 , dest : 337 poids : 628 , dest : 28 poids : 737 , dest : 495 poids : 213 , 
+17.5759 156.554 Zone 148 20411 148
+3 dest : 202 poids : 911 , dest : 431 poids : 527 , dest : 272 poids : 803 , 
+25.2995 -26.9448 Zone 149 24288 149
+2 dest : 71 poids : 594 , dest : 337 poids : 495 , 
+-27.2826 -134.054 Zone 150 14435 150
+0 
+-67.2521 -83.2295 Zone 151 31743 151
+4 dest : 205 poids : 836 , dest : 276 poids : 667 , dest : 26 poids : 418 , dest : 407 poids : 645 , 
+-68.1365 34.3498 Zone 152 3988 152
+2 dest : 271 poids : 186 , dest : 26 poids : 214 , 
+38.8296 -123.715 Zone 153 18621 153
+4 dest : 10 poids : 457 , dest : 242 poids : 330 , dest : 290 poids : 851 , dest : 274 poids : 310 , 
+-2.45277 93.8206 Zone 154 13731 154
+3 dest : 53 poids : 653 , dest : 427 poids : 696 , dest : 279 poids : 270 , 
+-66.2139 61.6297 Zone 155 30327 155
+2 dest : 498 poids : 790 , dest : 64 poids : 606 , 
+58.6111 107.169 Zone 156 18166 156
+3 dest : 408 poids : 899 , dest : 489 poids : 908 , dest : 369 poids : 528 , 
+-78.8321 -92.5462 Zone 157 3521 157
+0 
+-8.29218 56.8944 Zone 158 31679 158
+0 
+44.5866 151.182 Zone 159 25711 159
+0 
+66.7083 22.9566 Zone 160 16556 160
+1 dest : 171 poids : 802 , 
+14.1371 -113.904 Zone 161 23284 161
+4 dest : 377 poids : 320 , dest : 484 poids : 203 , dest : 288 poids : 211 , dest : 137 poids : 985 , 
+10.2808 15.1561 Zone 162 784 162
+3 dest : 228 poids : 581 , dest : 198 poids : 454 , dest : 96 poids : 974 , 
+10.6763 134.109 Zone 163 21482 163
+0 
+66.6698 90.6565 Zone 164 17024 164
+4 dest : 465 poids : 102 , dest : 438 poids : 487 , dest : 178 poids : 41 , dest : 293 poids : 63 , 
+4.20515 148.336 Zone 165 14326 165
+1 dest : 393 poids : 26 , 
+34.9403 -89.2062 Zone 166 26077 166
+3 dest : 263 poids : 949 , dest : 465 poids : 392 , dest : 298 poids : 349 , 
+-41.7905 -128.176 Zone 167 17710 167
+1 dest : 353 poids : 660 , 
+-58.8034 -62.6405 Zone 168 13855 168
+3 dest : 444 poids : 235 , dest : 111 poids : 640 , dest : 370 poids : 231 , 
+75.5525 78.714 Zone 169 30170 169
+1 dest : 241 poids : 37 , 
+83.853 108.839 Zone 170 10336 170
+1 dest : 186 poids : 61 , 
+-3.35368 125.067 Zone 171 16568 171
+3 dest : 21 poids : 7 , dest : 487 poids : 549 , dest : 435 poids : 284 , 
+-68.1915 112.904 Zone 172 7616 172
+4 dest : 290 poids : 698 , dest : 417 poids : 472 , dest : 108 poids : 410 , dest : 49 poids : 746 , 
+46.3445 125.264 Zone 173 19746 173
+0 
+63.8902 177.978 Zone 174 13984 174
+0 
+31.6224 -23.8246 Zone 175 12768 175
+4 dest : 160 poids : 444 , dest : 393 poids : 850 , dest : 259 poids : 846 , dest : 216 poids : 379 , 
+31.2818 -141.876 Zone 176 25249 176
+3 dest : 411 poids : 959 , dest : 283 poids : 410 , dest : 279 poids : 974 , 
+89.7198 136.218 Zone 177 1163 177
+4 dest : 247 poids : 646 , dest : 395 poids : 679 , dest : 337 poids : 595 , dest : 355 poids : 40 , 
+34.5503 -135.845 Zone 178 7864 178
+3 dest : 421 poids : 624 , dest : 89 poids : 891 , dest : 194 poids : 577 , 
+53.6946 18.6279 Zone 179 7884 179
+3 dest : 400 poids : 504 , dest : 470 poids : 692 , dest : 391 poids : 323 , 
+-20.817 43.4138 Zone 180 32744 180
+3 dest : 164 poids : 578 , dest : 348 poids : 907 , dest : 371 poids : 688 , 
+65.1811 106.917 Zone 181 18489 181
+2 dest : 173 poids : 9 , dest : 292 poids : 152 , 
+24.9644 -64.0577 Zone 182 20177 182
+0 
+-68.7683 11.2558 Zone 183 24648 183
+4 dest : 433 poids : 230 , dest : 20 poids : 855 , dest : 224 poids : 882 , dest : 140 poids : 375 , 
+-81.1008 -2.96091 Zone 184 5194 184
+2 dest : 395 poids : 851 , dest : 295 poids : 846 , 
+-4.72701 -13.9036 Zone 185 19295 185
+2 dest : 351 poids : 196 , dest : 158 poids : 242 , 
+-85.5339 30.0101 Zone 186 19284 186
+3 dest : 394 poids : 937 , dest : 25 poids : 757 , dest : 74 poids : 136 , 
+44.6745 -118.782 Zone 187 26257 187
+4 dest : 165 poids : 781 , dest : 341 poids : 656 , dest : 380 poids : 773 , dest : 296 poids : 350 , 
+-20.1907 -114.926 Zone 188 22068 188
+3 dest : 215 poids : 620 , dest : 362 poids : 204 , dest : 64 poids : 150 , 
+70.4273 177.001 Zone 189 11679 189
+2 dest : 338 poids : 169 , dest : 0 poids : 318 , 
+-10.506 -24.3629 Zone 190 18854 190
+4 dest : 475 poids : 445 , dest : 445 poids : 185 , dest : 471 poids : 524 , dest : 6 poids : 363 , 
+-19.3942 122.935 Zone 191 27406 191
+4 dest : 94 poids : 277 , dest : 418 poids : 745 , dest : 477 poids : 482 , dest : 249 poids : 579 , 
+5.25987 152.38 Zone 192 1338 192
+1 dest : 133 poids : 864 , 
+-49.2889 25.5165 Zone 193 20427 193
+1 dest : 243 poids : 904 , 
+-83.9683 143.184 Zone 194 24220 194
+1 dest : 232 poids : 982 , 
+-43.4605 -53.3897 Zone 195 28564 195
+4 dest : 345 poids : 647 , dest : 463 poids : 834 , dest : 150 poids : 651 , dest : 402 poids : 37 , 
+-43.9604 75.0993 Zone 196 12655 196
+3 dest : 50 poids : 490 , dest : 147 poids : 807 , dest : 101 poids : 899 , 
+-44.2351 -105.181 Zone 197 20970 197
+2 dest : 386 poids : 766 , dest : 87 poids : 683 , 
+17.109 130.263 Zone 198 2955 198
+4 dest : 167 poids : 997 , dest : 178 poids : 548 , dest : 124 poids : 655 , dest : 438 poids : 922 , 
+-37.2036 -82.1967 Zone 199 1824 199
+3 dest : 163 poids : 953 , dest : 145 poids : 627 , dest : 484 poids : 342 , 
+-52.6508 -96.2377 Zone 200 19727 200
+3 dest : 63 poids : 560 , dest : 30 poids : 804 , dest : 141 poids : 585 , 
+9.95117 95.4466 Zone 201 1442 201
+1 dest : 168 poids : 350 , 
+82.9575 55.3124 Zone 202 7913 202
+1 dest : 151 poids : 206 , 
+-30.5786 71.6056 Zone 203 30371 203
+2 dest : 270 poids : 287 , dest : 2 poids : 483 , 
+40.6699 122.485 Zone 204 667 204
+0 
+-73.6573 4.74075 Zone 205 10167 205
+3 dest : 496 poids : 101 , dest : 103 poids : 261 , dest : 401 poids : 198 , 
+29.3921 -81.7133 Zone 206 4043 206
+2 dest : 272 poids : 424 , dest : 286 poids : 467 , 
+41.3071 100.369 Zone 207 2968 207
+2 dest : 437 poids : 536 , dest : 461 poids : 16 , 
+16.0543 -164.432 Zone 208 32401 208
+2 dest : 60 poids : 894 , dest : 359 poids : 100 , 
+-14.7414 -96.8969 Zone 209 8214 209
+1 dest : 387 poids : 887 , 
+-38.8186 12.4314 Zone 210 29405 210
+0 
+-70.5426 -177.671 Zone 211 23977 211
+0 
+-39.0109 -94.1173 Zone 212 8153 212
+0 
+73.6079 -105.258 Zone 213 6439 213
+0 
+-13.7361 102.786 Zone 214 29327 214
+4 dest : 406 poids : 631 , dest : 263 poids : 671 , dest : 246 poids : 687 , dest : 397 poids : 424 , 
+15.2358 15.4088 Zone 215 24144 215
+0 
+-54.3263 -12.4094 Zone 216 3345 216
+3 dest : 380 poids : 248 , dest : 463 poids : 828 , dest : 367 poids : 849 , 
+-53.343 120.079 Zone 217 25416 217
+1 dest : 451 poids : 442 , 
+10.3247 2.65328 Zone 218 12340 218
+2 dest : 190 poids : 92 , dest : 219 poids : 980 , 
+87.7477 62.4647 Zone 219 27031 219
+0 
+-75.0087 0.521867 Zone 220 8607 220
+3 dest : 374 poids : 592 , dest : 290 poids : 987 , dest : 8 poids : 336 , 
+-60.9348 -36.0088 Zone 221 17051 221
+2 dest : 280 poids : 217 , dest : 57 poids : 903 , 
+45.7457 -82.801 Zone 222 28716 222
+3 dest : 238 poids : 224 , dest : 305 poids : 312 , dest : 300 poids : 861 , 
+-16.9332 -179.121 Zone 223 19692 223
+3 dest : 141 poids : 310 , dest : 282 poids : 90 , dest : 211 poids : 577 , 
+67.9333 -71.265 Zone 224 19151 224
+3 dest : 179 poids : 280 , dest : 271 poids : 553 , dest : 65 poids : 231 , 
+71.5204 -77.4175 Zone 225 4383 225
+4 dest : 211 poids : 44 , dest : 384 poids : 627 , dest : 342 poids : 244 , dest : 110 poids : 34 , 
+-12.7033 149.951 Zone 226 13779 226
+3 dest : 271 poids : 110 , dest : 28 poids : 917 , dest : 454 poids : 432 , 
+-55.6832 25.2638 Zone 227 9733 227
+1 dest : 45 poids : 831 , 
+-27.843 -174.792 Zone 228 3200 228
+1 dest : 82 poids : 209 , 
+52.0631 -85.8003 Zone 229 12836 229
+0 
+10.495 143.678 Zone 230 27363 230
+2 dest : 110 poids : 203 , dest : 250 poids : 37 , 
+-83.2047 -20.1001 Zone 231 19569 231
+4 dest : 169 poids : 437 , dest : 367 poids : 486 , dest : 453 poids : 663 , dest : 217 poids : 356 , 
+-64.1978 58.2458 Zone 232 9322 232
+2 dest : 438 poids : 585 , dest : 29 poids : 207 , 
+46.7785 -121.375 Zone 233 4567 233
+0 
+-7.84173 136.921 Zone 234 162 234
+2 dest : 259 poids : 289 , dest : 305 poids : 685 , 
+20.3555 -20.4407 Zone 235 2152 235
+4 dest : 226 poids : 588 , dest : 334 poids : 778 , dest : 242 poids : 527 , dest : 269 poids : 522 , 
+-89.0497 -45.754 Zone 236 21322 236
+4 dest : 38 poids : 542 , dest : 382 poids : 346 , dest : 481 poids : 941 , dest : 232 poids : 852 , 
+-14.7029 166.102 Zone 237 76 237
+2 dest : 141 poids : 890 , dest : 287 poids : 675 , 
+38.3627 -100.226 Zone 238 4444 238
+3 dest : 378 poids : 520 , dest : 126 poids : 685 , dest : 376 poids : 258 , 
+29.881 -171.255 Zone 239 15176 239
+2 dest : 425 poids : 945 , dest : 108 poids : 303 , 
+-63.7474 140.042 Zone 240 10981 240
+2 dest : 278 poids : 593 , dest : 426 poids : 214 , 
+-37.0388 -44.3806 Zone 241 2537 241
+4 dest : 405 poids : 877 , dest : 183 poids : 625 , dest : 69 poids : 982 , dest : 233 poids : 67 , 
+39.8459 23.5389 Zone 242 29622 242
+3 dest : 284 poids : 657 , dest : 63 poids : 984 , dest : 168 poids : 516 , 
+-35.0832 8.33338 Zone 243 6865 243
+3 dest : 9 poids : 556 , dest : 7 poids : 169 , dest : 306 poids : 132 , 
+-89.2969 -146.754 Zone 244 21690 244
+1 dest : 487 poids : 36 , 
+51.3434 -99.7864 Zone 245 24922 245
+4 dest : 59 poids : 44 , dest : 73 poids : 494 , dest : 61 poids : 792 , dest : 328 poids : 537 , 
+35.7533 -47.6437 Zone 246 20135 246
+2 dest : 435 poids : 162 , dest : 20 poids : 540 , 
+-36.1873 -37.5359 Zone 247 14837 247
+2 dest : 313 poids : 473 , dest : 350 poids : 171 , 
+55.3975 -130.791 Zone 248 15177 248
+3 dest : 207 poids : 810 , dest : 100 poids : 616 , dest : 125 poids : 483 , 
+-24.9864 129.703 Zone 249 13352 249
+3 dest : 99 poids : 661 , dest : 145 poids : 221 , dest : 334 poids : 660 , 
+56.4797 -58.4106 Zone 250 824 250
+4 dest : 39 poids : 716 , dest : 345 poids : 744 , dest : 265 poids : 286 , dest : 284 poids : 132 , 
+78.6673 54.8509 Zone 251 19543 251
+1 dest : 394 poids : 505 , 
+-18.7405 118.431 Zone 252 12287 252
+2 dest : 139 poids : 850 , dest : 431 poids : 531 , 
+-43.433 81.6254 Zone 253 32005 253
+1 dest : 356 poids : 585 , 
+-40.7358 79.5599 Zone 254 7432 254
+1 dest : 361 poids : 123 , 
+82.6115 -138.69 Zone 255 8986 255
+2 dest : 480 poids : 53 , dest : 389 poids : 798 , 
+18.4164 68.0679 Zone 256 11616 256
+1 dest : 408 poids : 159 , 
+-16.3948 -54.5433 Zone 257 7320 257
+1 dest : 314 poids : 213 , 
+-72.8993 -108.631 Zone 258 29041 258
+3 dest : 183 poids : 583 , dest : 478 poids : 436 , dest : 434 poids : 577 , 
+88.786 -25.8791 Zone 259 22350 259
+2 dest : 414 poids : 748 , dest : 422 poids : 101 , 
+-24.1954 140.547 Zone 260 3029 260
+0 
+-44.5372 -0.686666 Zone 261 15248 261
+3 dest : 211 poids : 756 , dest : 372 poids : 72 , dest : 26 poids : 354 , 
+49.5087 -42.1943 Zone 262 30291 262
+1 dest : 377 poids : 813 , 
+-70.213 -117.376 Zone 263 8652 263
+3 dest : 306 poids : 415 , dest : 27 poids : 470 , dest : 231 poids : 422 , 
+-76.9918 53.3238 Zone 264 1323 264
+2 dest : 350 poids : 633 , dest : 54 poids : 843 , 
+29.9634 135.065 Zone 265 31434 265
+1 dest : 101 poids : 617 , 
+-33.9351 150.336 Zone 266 17414 266
+4 dest : 450 poids : 576 , dest : 427 poids : 844 , dest : 61 poids : 217 , dest : 451 poids : 490 , 
+46.3335 -25.967 Zone 267 19242 267
+4 dest : 197 poids : 150 , dest : 77 poids : 908 , dest : 232 poids : 783 , dest : 175 poids : 19 , 
+-6.44093 -63.7501 Zone 268 29256 268
+0 
+66.0326 -155.038 Zone 269 14704 269
+4 dest : 271 poids : 758 , dest : 295 poids : 264 , dest : 411 poids : 183 , dest : 404 poids : 419 , 
+-45.4106 49.0829 Zone 270 17395 270
+4 dest : 149 poids : 27 , dest : 99 poids : 335 , dest : 150 poids : 910 , dest : 8 poids : 355 , 
+8.38557 62.992 Zone 271 30404 271
+3 dest : 282 poids : 353 , dest : 319 poids : 314 , dest : 190 poids : 587 , 
+-11.6376 -39.4806 Zone 272 21412 272
+3 dest : 403 poids : 185 , dest : 225 poids : 734 , dest : 466 poids : 387 , 
+64.4505 75.9783 Zone 273 7551 273
+0 
+24.4371 -135.295 Zone 274 9358 274
+3 dest : 208 poids : 45 , dest : 126 poids : 841 , dest : 257 poids : 775 , 
+17.2298 -34.7453 Zone 275 23115 275
+2 dest : 347 poids : 990 , dest : 251 poids : 420 , 
+89.7418 100.665 Zone 276 8669 276
+4 dest : 69 poids : 894 , dest : 408 poids : 445 , dest : 191 poids : 771 , dest : 410 poids : 855 , 
+-76.3051 157.444 Zone 277 10790 277
+3 dest : 399 poids : 306 , dest : 30 poids : 195 , dest : 435 poids : 887 , 
+-63.2475 -48.5446 Zone 278 4896 278
+4 dest : 370 poids : 508 , dest : 164 poids : 364 , dest : 280 poids : 764 , dest : 88 poids : 158 , 
+-81.0678 120.793 Zone 279 30899 279
+0 
+9.4293 -114.3 Zone 280 18244 280
+4 dest : 465 poids : 649 , dest : 27 poids : 696 , dest : 411 poids : 701 , dest : 185 poids : 779 , 
+-44.0922 90.2719 Zone 281 13870 281
+0 
+-73.498 -173.672 Zone 282 4525 282
+3 dest : 288 poids : 915 , dest : 62 poids : 180 , dest : 91 poids : 289 , 
+-47.0751 128.231 Zone 283 22180 283
+2 dest : 195 poids : 435 , dest : 174 poids : 220 , 
+53.7989 46.567 Zone 284 1991 284
+4 dest : 198 poids : 316 , dest : 243 poids : 869 , dest : 69 poids : 647 , dest : 240 poids : 332 , 
+9.65453 -144.48 Zone 285 19612 285
+1 dest : 248 poids : 25 , 
+83.6772 -33.5368 Zone 286 2836 286
+2 dest : 198 poids : 885 , dest : 194 poids : 79 , 
+-50.2612 -41.612 Zone 287 12802 287
+4 dest : 161 poids : 27 , dest : 126 poids : 104 , dest : 80 poids : 387 , dest : 286 poids : 389 , 
+88.7036 119.87 Zone 288 12523 288
+4 dest : 7 poids : 831 , dest : 190 poids : 462 , dest : 36 poids : 760 , dest : 32 poids : 527 , 
+-16.307 -53.6534 Zone 289 2020 289
+3 dest : 77 poids : 118 , dest : 340 poids : 710 , dest : 308 poids : 169 , 
+-32.1497 -61.2671 Zone 290 14754 290
+0 
+45.4161 -30.911 Zone 291 26294 291
+2 dest : 343 poids : 523 , dest : 410 poids : 386 , 
+-56.2764 -168.947 Zone 292 28798 292
+0 
+40.181 2.84005 Zone 293 4854 293
+2 dest : 460 poids : 600 , dest : 92 poids : 462 , 
+-20.5203 -61.2122 Zone 294 28826 294
+3 dest : 56 poids : 67 , dest : 199 poids : 2 , dest : 200 poids : 85 , 
+-67.4389 33.5038 Zone 295 16359 295
+2 dest : 47 poids : 481 , dest : 120 poids : 815 , 
+-26.9366 -104.862 Zone 296 22629 296
+2 dest : 66 poids : 906 , dest : 349 poids : 414 , 
+68.2189 -70.2982 Zone 297 29235 297
+4 dest : 63 poids : 625 , dest : 225 poids : 514 , dest : 11 poids : 763 , dest : 462 poids : 215 , 
+-55.6941 22.8358 Zone 298 323 298
+4 dest : 306 poids : 537 , dest : 284 poids : 369 , dest : 63 poids : 876 , dest : 142 poids : 153 , 
+61.2699 171.914 Zone 299 18288 299
+0 
+17.5265 48.0172 Zone 300 24563 300
+2 dest : 6 poids : 647 , dest : 414 poids : 890 , 
+-78.7057 124.254 Zone 301 4526 301
+2 dest : 356 poids : 159 , dest : 65 poids : 786 , 
+-41.2796 -53.4666 Zone 302 22993 302
+0 
+32.6496 -117.596 Zone 303 26040 303
+3 dest : 72 poids : 587 , dest : 169 poids : 448 , dest : 2 poids : 249 , 
+20.2457 -27.1426 Zone 304 24130 304
+0 
+-15.862 31.5152 Zone 305 8828 305
+1 dest : 441 poids : 722 , 
+23.4263 -59.4653 Zone 306 24065 306
+2 dest : 47 poids : 697 , dest : 494 poids : 123 , 
+42.0157 146.677 Zone 307 11198 307
+0 
+50.6732 -119.529 Zone 308 10364 308
+2 dest : 192 poids : 568 , dest : 465 poids : 405 , 
+41.9883 -159.817 Zone 309 27276 309
+3 dest : 87 poids : 840 , dest : 75 poids : 486 , dest : 288 poids : 152 , 
+-59.1714 54.6532 Zone 310 22154 310
+4 dest : 52 poids : 389 , dest : 434 poids : 793 , dest : 461 poids : 210 , dest : 476 poids : 979 , 
+-83.2212 -6.53157 Zone 311 13751 311
+2 dest : 147 poids : 120 , dest : 278 poids : 906 , 
+-84.5396 53.0821 Zone 312 12154 312
+2 dest : 65 poids : 370 , dest : 376 poids : 109 , 
+-12.2089 -41.0407 Zone 313 27100 313
+2 dest : 111 poids : 206 , dest : 238 poids : 137 , 
+37.8628 -173.309 Zone 314 21524 314
+0 
+-53.733 60.6519 Zone 315 8556 315
+3 dest : 133 poids : 110 , dest : 320 poids : 599 , dest : 331 poids : 606 , 
+-42.0377 -169.178 Zone 316 22528 316
+3 dest : 393 poids : 58 , dest : 248 poids : 882 , dest : 474 poids : 450 , 
+-32.7485 -58.7732 Zone 317 13606 317
+4 dest : 473 poids : 84 , dest : 341 poids : 561 , dest : 421 poids : 406 , dest : 22 poids : 259 , 
+42.5925 174.177 Zone 318 18637 318
+2 dest : 126 poids : 650 , dest : 1 poids : 463 , 
+-0.579546 130.758 Zone 319 566 319
+0 
+-54.2824 21.6712 Zone 320 29911 320
+1 dest : 221 poids : 405 , 
+-71.3282 107.73 Zone 321 29494 321
+2 dest : 146 poids : 204 , dest : 87 poids : 750 , 
+23.9866 46.0067 Zone 322 16747 322
+3 dest : 327 poids : 237 , dest : 137 poids : 112 , dest : 394 poids : 588 , 
+-21.4103 -49.7201 Zone 323 27716 323
+1 dest : 205 poids : 164 , 
+-9.93469 96.9298 Zone 324 30429 324
+2 dest : 37 poids : 728 , dest : 499 poids : 547 , 
+48.7231 -14.9364 Zone 325 2712 325
+3 dest : 450 poids : 851 , dest : 229 poids : 300 , dest : 261 poids : 629 , 
+-27.1233 64.2445 Zone 326 7999 326
+4 dest : 63 poids : 610 , dest : 315 poids : 814 , dest : 453 poids : 437 , dest : 276 poids : 271 , 
+-56.0512 50.3134 Zone 327 5326 327
+3 dest : 485 poids : 264 , dest : 329 poids : 878 , dest : 487 poids : 91 , 
+6.91885 -141.744 Zone 328 13990 328
+3 dest : 180 poids : 974 , dest : 295 poids : 7 , dest : 251 poids : 105 , 
+-79.1177 96.1718 Zone 329 2526 329
+4 dest : 495 poids : 682 , dest : 432 poids : 546 , dest : 3 poids : 348 , dest : 458 poids : 102 , 
+79.8923 31.7789 Zone 330 6236 330
+4 dest : 386 poids : 814 , dest : 474 poids : 567 , dest : 173 poids : 693 , dest : 26 poids : 691 , 
+-63.0717 168.178 Zone 331 6923 331
+4 dest : 301 poids : 550 , dest : 139 poids : 126 , dest : 321 poids : 309 , dest : 93 poids : 263 , 
+-55.0349 152.072 Zone 332 28858 332
+3 dest : 384 poids : 111 , dest : 197 poids : 534 , dest : 217 poids : 100 , 
+81.7435 176.935 Zone 333 30583 333
+2 dest : 117 poids : 577 , dest : 201 poids : 419 , 
+48.2617 -110.718 Zone 334 4065 334
+2 dest : 232 poids : 824 , dest : 78 poids : 19 , 
+33.188 -24.1212 Zone 335 25634 335
+2 dest : 43 poids : 585 , dest : 261 poids : 703 , 
+82.9301 92.1506 Zone 336 10811 336
+3 dest : 89 poids : 703 , dest : 16 poids : 78 , dest : 378 poids : 549 , 
+-32.331 82.1308 Zone 337 20836 337
+1 dest : 66 poids : 738 , 
+79.4583 178.791 Zone 338 28831 338
+1 dest : 317 poids : 751 , 
+27.6617 167.212 Zone 339 19117 339
+0 
+49.3109 137.921 Zone 340 8416 340
+4 dest : 318 poids : 827 , dest : 498 poids : 545 , dest : 238 poids : 14 , dest : 194 poids : 351 , 
+-50.9864 23.1214 Zone 341 13931 341
+3 dest : 89 poids : 866 , dest : 366 poids : 940 , dest : 350 poids : 997 , 
+24.9205 7.46544 Zone 342 19752 342
+1 dest : 285 poids : 714 , 
+49.5141 178.956 Zone 343 26572 343
+3 dest : 175 poids : 930 , dest : 181 poids : 568 , dest : 98 poids : 877 , 
+-65.692 9.24528 Zone 344 13887 344
+0 
+-26.8212 -86.4925 Zone 345 17912 345
+1 dest : 14 poids : 911 , 
+-77.6455 159.598 Zone 346 4639 346
+1 dest : 55 poids : 714 , 
+-48.5199 144.282 Zone 347 4419 347
+3 dest : 237 poids : 969 , dest : 237 poids : 234 , dest : 421 poids : 739 , 
+70.7239 127.934 Zone 348 28965 348
+1 dest : 11 poids : 311 , 
+84.9736 12.6292 Zone 349 31951 349
+2 dest : 157 poids : 663 , dest : 466 poids : 69 , 
+-70.4053 -158.422 Zone 350 22678 350
+4 dest : 284 poids : 111 , dest : 270 poids : 281 , dest : 224 poids : 768 , dest : 430 poids : 708 , 
+34.3416 88.6569 Zone 351 13290 351
+3 dest : 109 poids : 246 , dest : 258 poids : 176 , dest : 92 poids : 591 , 
+75.2944 -70.2432 Zone 352 4843 352
+0 
+-75.7778 -142.546 Zone 353 7739 353
+2 dest : 403 poids : 305 , dest : 307 poids : 21 , 
+-74.9483 30.5924 Zone 354 22552 354
+0 
+78.6618 117.024 Zone 355 20192 355
+3 dest : 43 poids : 465 , dest : 170 poids : 316 , dest : 23 poids : 443 , 
+85.3856 -102.467 Zone 356 22327 356
+2 dest : 315 poids : 448 , dest : 450 poids : 421 , 
+-81.1283 -56.8065 Zone 357 23539 357
+1 dest : 285 poids : 568 , 
+-50.1569 167.585 Zone 358 1261 358
+3 dest : 374 poids : 85 , dest : 427 poids : 82 , dest : 413 poids : 648 , 
+-56.9027 -88.1735 Zone 359 27863 359
+4 dest : 462 poids : 695 , dest : 487 poids : 843 , dest : 371 poids : 733 , dest : 121 poids : 356 , 
+-45.6084 -53.5435 Zone 360 23401 360
+3 dest : 391 poids : 258 , dest : 431 poids : 156 , dest : 461 poids : 56 , 
+28.9966 -157.126 Zone 361 269 361
+2 dest : 453 poids : 215 , dest : 54 poids : 114 , 
+-39.9118 -40.0848 Zone 362 6370 362
+1 dest : 389 poids : 210 , 
+28.2385 -43.6885 Zone 363 2891 363
+3 dest : 357 poids : 362 , dest : 264 poids : 164 , dest : 498 poids : 611 , 
+-1.94739 136.647 Zone 364 19939 364
+2 dest : 206 poids : 699 , dest : 163 poids : 777 , 
+46.5807 76.7254 Zone 365 24484 365
+0 
+65.7579 115.058 Zone 366 17772 366
+2 dest : 384 poids : 552 , dest : 151 poids : 847 , 
+-28.4802 -173.957 Zone 367 18831 367
+3 dest : 63 poids : 56 , dest : 42 poids : 865 , dest : 151 poids : 574 , 
+-44.2131 -107.862 Zone 368 10847 368
+2 dest : 340 poids : 980 , dest : 4 poids : 406 , 
+16.8178 -78.7359 Zone 369 18976 369
+4 dest : 65 poids : 511 , dest : 454 poids : 21 , dest : 313 poids : 618 , dest : 364 poids : 997 , 
+10.929 -105.038 Zone 370 5299 370
+3 dest : 19 poids : 242 , dest : 147 poids : 765 , dest : 357 poids : 528 , 
+-6.78701 -2.16987 Zone 371 17091 371
+2 dest : 219 poids : 719 , dest : 20 poids : 90 , 
+-44.7514 -29.1311 Zone 372 4025 372
+1 dest : 241 poids : 819 , 
+-41.7246 85.1851 Zone 373 1372 373
+3 dest : 141 poids : 385 , dest : 134 poids : 604 , dest : 315 poids : 405 , 
+-79.1781 12.0908 Zone 374 17689 374
+1 dest : 443 poids : 998 , 
+2.7604 -150.292 Zone 375 26621 375
+4 dest : 390 poids : 614 , dest : 129 poids : 686 , dest : 382 poids : 451 , dest : 53 poids : 694 , 
+57.5014 -144.821 Zone 376 14017 376
+1 dest : 205 poids : 361 , 
+39.0658 -142.623 Zone 377 15345 377
+0 
+-81.2876 -69.1995 Zone 378 26569 378
+0 
+-66.7742 122.957 Zone 379 11064 379
+0 
+-6.84194 8.84976 Zone 380 3418 380
+1 dest : 407 poids : 854 , 
+-53.8099 -115.376 Zone 381 19913 381
+0 
+10.0171 152.665 Zone 382 16835 382
+1 dest : 225 poids : 107 , 
+-23.9811 148.919 Zone 383 4413 383
+1 dest : 142 poids : 840 , 
+-87.3852 82.0649 Zone 384 6267 384
+0 
+-54.0736 177.978 Zone 385 3825 385
+0 
+34.1493 39.5685 Zone 386 11737 386
+3 dest : 124 poids : 236 , dest : 382 poids : 694 , dest : 434 poids : 125 , 
+62.6817 134.131 Zone 387 16289 387
+3 dest : 204 poids : 940 , dest : 453 poids : 684 , dest : 342 poids : 706 , 
+-75.7888 167.981 Zone 388 9406 388
+4 dest : 283 poids : 378 , dest : 79 poids : 183 , dest : 211 poids : 435 , dest : 17 poids : 74 , 
+42.642 144.425 Zone 389 18900 389
+1 dest : 416 poids : 456 , 
+1.30467 20.3088 Zone 390 26371 390
+1 dest : 81 poids : 515 , 
+69.3011 47.2152 Zone 391 19284 391
+3 dest : 462 poids : 269 , dest : 174 poids : 747 , dest : 448 poids : 456 , 
+12.4561 -37.2832 Zone 392 11137 392
+4 dest : 4 poids : 193 , dest : 74 poids : 245 , dest : 27 poids : 892 , dest : 244 poids : 629 , 
+-82.4686 67.7163 Zone 393 14787 393
+4 dest : 206 poids : 419 , dest : 4 poids : 726 , dest : 275 poids : 421 , dest : 485 poids : 310 , 
+8.5229 168.057 Zone 394 16413 394
+4 dest : 353 poids : 36 , dest : 258 poids : 68 , dest : 441 poids : 69 , dest : 142 poids : 922 , 
+-65.5492 65.2663 Zone 395 27702 395
+3 dest : 121 poids : 244 , dest : 369 poids : 829 , dest : 318 poids : 579 , 
+-3.16141 93.3811 Zone 396 8219 396
+4 dest : 400 poids : 683 , dest : 385 poids : 284 , dest : 476 poids : 750 , dest : 21 poids : 524 , 
+68.5211 -143.184 Zone 397 26305 397
+0 
+6.66066 -67.8811 Zone 398 576 398
+4 dest : 62 poids : 989 , dest : 179 poids : 26 , dest : 210 poids : 712 , dest : 225 poids : 629 , 
+-80.7382 68.1338 Zone 399 6188 399
+2 dest : 327 poids : 481 , dest : 481 poids : 366 , 
+14.4777 -143.195 Zone 400 3618 400
+4 dest : 243 poids : 73 , dest : 105 poids : 531 , dest : 274 poids : 64 , dest : 340 poids : 0 , 
+27.2662 -120.716 Zone 401 16663 401
+0 
+-11.3245 -152.369 Zone 402 24534 402
+0 
+-32.1772 43.6006 Zone 403 31611 403
+1 dest : 25 poids : 105 , 
+0.0357067 115.08 Zone 404 2736 404
+2 dest : 280 poids : 382 , dest : 285 poids : 952 , 
+65.4448 -11.157 Zone 405 28139 405
+4 dest : 328 poids : 654 , dest : 340 poids : 449 , dest : 392 poids : 595 , dest : 445 poids : 535 , 
+-2.24403 -96.0289 Zone 406 3809 406
+2 dest : 246 poids : 438 , dest : 390 poids : 383 , 
+77.2665 -43.3699 Zone 407 25141 407
+2 dest : 381 poids : 664 , dest : 276 poids : 242 , 
+-5.16648 -135.79 Zone 408 18283 408
+4 dest : 293 poids : 44 , dest : 254 poids : 873 , dest : 227 poids : 564 , dest : 428 poids : 154 , 
+-3.51848 -146.524 Zone 409 21133 409
+1 dest : 324 poids : 353 , 
+13.4889 154.115 Zone 410 5937 410
+4 dest : 87 poids : 645 , dest : 446 poids : 739 , dest : 219 poids : 973 , dest : 270 poids : 659 , 
+30.6446 7.78405 Zone 411 18000 411
+1 dest : 24 poids : 92 , 
+88.1982 -112.696 Zone 412 14566 412
+1 dest : 143 poids : 494 , 
+21.5201 67.2768 Zone 413 6797 413
+3 dest : 199 poids : 797 , dest : 490 poids : 316 , dest : 121 poids : 23 , 
+50.5029 52.0054 Zone 414 11212 414
+2 dest : 313 poids : 370 , dest : 137 poids : 513 , 
+-10.2149 126.242 Zone 415 31355 415
+0 
+-48.9044 -141.591 Zone 416 12216 416
+3 dest : 347 poids : 94 , dest : 59 poids : 821 , dest : 159 poids : 163 , 
+0.200507 -50.1376 Zone 417 20348 417
+2 dest : 12 poids : 872 , dest : 257 poids : 140 , 
+-41.5159 -126.429 Zone 418 12723 418
+2 dest : 406 poids : 846 , dest : 231 poids : 176 , 
+-71.1194 129.846 Zone 419 20726 419
+4 dest : 326 poids : 307 , dest : 191 poids : 6 , dest : 228 poids : 234 , dest : 53 poids : 838 , 
+10.3027 -167.255 Zone 420 7786 420
+0 
+88.1982 57.5536 Zone 421 26770 421
+1 dest : 214 poids : 495 , 
+-56.249 47.3141 Zone 422 16054 422
+2 dest : 354 poids : 669 , dest : 352 poids : 857 , 
+-23.4428 51.8296 Zone 423 9123 423
+4 dest : 311 poids : 63 , dest : 327 poids : 353 , dest : 366 poids : 270 , dest : 123 poids : 761 , 
+-24.3876 -24.9123 Zone 424 21544 424
+4 dest : 111 poids : 633 , dest : 408 poids : 119 , dest : 61 poids : 82 , dest : 32 poids : 492 , 
+49.7778 137.009 Zone 425 15066 425
+1 dest : 36 poids : 406 , 
+-48.3496 48.2919 Zone 426 17656 426
+3 dest : 89 poids : 638 , dest : 372 poids : 372 , dest : 86 poids : 399 , 
+15.9224 -172.452 Zone 427 30893 427
+1 dest : 30 poids : 864 , 
+75.157 169.189 Zone 428 21923 428
+1 dest : 339 poids : 505 , 
+39.8569 -50.1706 Zone 429 14695 429
+2 dest : 382 poids : 775 , dest : 317 poids : 34 , 
+-64.2747 128.593 Zone 430 28404 430
+3 dest : 6 poids : 456 , dest : 429 poids : 771 , dest : 85 poids : 269 , 
+67.351 -37.3711 Zone 431 21950 431
+0 
+-40.983 11.3767 Zone 432 14169 432
+4 dest : 19 poids : 298 , dest : 246 poids : 588 , dest : 402 poids : 186 , dest : 205 poids : 423 , 
+-26.5355 130.055 Zone 433 4720 433
+1 dest : 191 poids : 311 , 
+-9.5996 176.638 Zone 434 11403 434
+4 dest : 60 poids : 820 , dest : 163 poids : 284 , dest : 246 poids : 60 , dest : 352 poids : 775 , 
+-66.0985 75.3191 Zone 435 14595 435
+1 dest : 110 poids : 485 , 
+44.3065 -121.1 Zone 436 10840 436
+2 dest : 235 poids : 252 , dest : 150 poids : 759 , 
+29.3646 -114.157 Zone 437 1958 437
+0 
+85.7921 -150.127 Zone 438 28551 438
+0 
+-19.8062 -59.8059 Zone 439 10980 439
+2 dest : 469 poids : 256 , dest : 39 poids : 150 , 
+50.6623 -92.3704 Zone 440 23005 440
+0 
+-2.54616 41.3593 Zone 441 25952 441
+2 dest : 407 poids : 203 , dest : 4 poids : 102 , 
+3.92499 -53.1919 Zone 442 27184 442
+2 dest : 392 poids : 986 , dest : 334 poids : 940 , 
+15.5654 -56.2352 Zone 443 23204 443
+1 dest : 237 poids : 899 , 
+-63.0882 -101.566 Zone 444 4761 444
+3 dest : 231 poids : 126 , dest : 115 poids : 691 , dest : 364 poids : 805 , 
+-31.7762 59.7949 Zone 445 27417 445
+4 dest : 25 poids : 888 , dest : 240 poids : 309 , dest : 213 poids : 575 , dest : 401 poids : 543 , 
+-1.99133 143.184 Zone 446 20318 446
+4 dest : 278 poids : 101 , dest : 258 poids : 501 , dest : 69 poids : 161 , dest : 453 poids : 175 , 
+49.212 163.729 Zone 447 25747 447
+4 dest : 398 poids : 550 , dest : 152 poids : 830 , dest : 34 poids : 190 , dest : 344 poids : 513 , 
+6.02344 23.7367 Zone 448 8282 448
+3 dest : 2 poids : 857 , dest : 286 poids : 441 , dest : 408 poids : 99 , 
+-28.9196 82.1967 Zone 449 29545 449
+1 dest : 498 poids : 380 , 
+-67.4499 -117.892 Zone 450 3513 450
+2 dest : 177 poids : 46 , dest : 327 poids : 34 , 
+-58.4078 23.8575 Zone 451 4597 451
+1 dest : 16 poids : 216 , 
+51.1347 -156.928 Zone 452 6259 452
+0 
+52.3157 59.3774 Zone 453 3508 453
+1 dest : 139 poids : 962 , 
+82.6279 33.7016 Zone 454 16217 454
+4 dest : 8 poids : 171 , dest : 61 poids : 326 , dest : 489 poids : 673 , dest : 457 poids : 267 , 
+-58.7265 1.44475 Zone 455 21903 455
+1 dest : 319 poids : 769 , 
+1.52989 -21.9129 Zone 456 16802 456
+3 dest : 274 poids : 79 , dest : 163 poids : 50 , dest : 323 poids : 725 , 
+13.1428 -115.343 Zone 457 31684 457
+4 dest : 417 poids : 720 , dest : 60 poids : 747 , dest : 422 poids : 325 , dest : 432 poids : 227 , 
+-4.07331 -113.597 Zone 458 4859 458
+4 dest : 14 poids : 548 , dest : 187 poids : 632 , dest : 21 poids : 623 , dest : 280 poids : 547 , 
+83.4465 125.946 Zone 459 17558 459
+4 dest : 35 poids : 851 , dest : 10 poids : 889 , dest : 473 poids : 183 , dest : 460 poids : 191 , 
+19.2019 61.5638 Zone 460 15832 460
+1 dest : 399 poids : 74 , 
+-52.8761 -5.15824 Zone 461 21331 461
+3 dest : 104 poids : 742 , dest : 121 poids : 521 , dest : 82 poids : 638 , 
+35.3633 68.4634 Zone 462 20655 462
+3 dest : 410 poids : 715 , dest : 327 poids : 447 , dest : 263 poids : 831 , 
+7.33634 -110.894 Zone 463 32463 463
+2 dest : 165 poids : 539 , dest : 47 poids : 162 , 
+25.294 -66.5737 Zone 464 24016 464
+4 dest : 34 poids : 92 , dest : 100 poids : 46 , dest : 276 poids : 751 , dest : 260 poids : 490 , 
+34.0229 -126.726 Zone 465 21764 465
+4 dest : 459 poids : 467 , dest : 118 poids : 613 , dest : 23 poids : 781 , dest : 47 poids : 815 , 
+1.38157 -106.115 Zone 466 15538 466
+0 
+-16.6915 67.8481 Zone 467 15238 467
+0 
+69.0484 -8.99258 Zone 468 11508 468
+1 dest : 107 poids : 104 , 
+51.7554 -31.0428 Zone 469 13195 469
+2 dest : 306 poids : 496 , dest : 13 poids : 400 , 
+16.7684 -98.8525 Zone 470 20636 470
+3 dest : 164 poids : 62 , dest : 168 poids : 322 , dest : 400 poids : 689 , 
+85.6877 -14.9803 Zone 471 187 471
+3 dest : 169 poids : 171 , dest : 79 poids : 584 , dest : 387 poids : 411 , 
+23.0308 -73.8798 Zone 472 24714 472
+4 dest : 347 poids : 253 , dest : 452 poids : 488 , dest : 324 poids : 257 , dest : 115 poids : 300 , 
+59.6384 145.436 Zone 473 1829 473
+1 dest : 410 poids : 332 , 
+-40.8731 97.8857 Zone 474 20913 474
+1 dest : 184 poids : 255 , 
+-68.988 166.728 Zone 475 10657 475
+2 dest : 206 poids : 350 , dest : 222 poids : 295 , 
+35.3029 -83.3283 Zone 476 6175 476
+4 dest : 473 poids : 883 , dest : 108 poids : 911 , dest : 44 poids : 478 , dest : 234 poids : 964 , 
+-66.1095 -91.3926 Zone 477 30492 477
+3 dest : 216 poids : 377 , dest : 112 poids : 23 , dest : 418 poids : 200 , 
+45.7128 62.4757 Zone 478 8029 478
+3 dest : 216 poids : 198 , dest : 140 poids : 66 , dest : 358 poids : 441 , 
+17.12 -176.506 Zone 479 17734 479
+1 dest : 172 poids : 872 , 
+69.2792 -171.485 Zone 480 11425 480
+1 dest : 69 poids : 681 , 
+28.4198 -172.551 Zone 481 6471 481
+2 dest : 296 poids : 899 , dest : 95 poids : 551 , 
+74.0529 68.4194 Zone 482 12209 482
+4 dest : 69 poids : 596 , dest : 376 poids : 492 , dest : 140 poids : 803 , dest : 198 poids : 96 , 
+-41.3236 155.39 Zone 483 26951 483
+0 
+-7.34733 -173.001 Zone 484 9377 484
+4 dest : 51 poids : 661 , dest : 475 poids : 683 , dest : 395 poids : 484 , dest : 458 poids : 488 , 
+-41.2851 152.72 Zone 485 18359 485
+4 dest : 205 poids : 162 , dest : 131 poids : 205 , dest : 379 poids : 958 , dest : 15 poids : 371 , 
+61.3193 -4.21339 Zone 486 31384 486
+0 
+13.3076 82.3725 Zone 487 6505 487
+0 
+37.5002 -34.2729 Zone 488 28594 488
+4 dest : 471 poids : 806 , dest : 357 poids : 841 , dest : 207 poids : 804 , dest : 79 poids : 523 , 
+-74.7725 -121.079 Zone 489 22566 489
+1 dest : 480 poids : 204 , 
+-42.5156 107.389 Zone 490 23087 490
+3 dest : 366 poids : 794 , dest : 475 poids : 931 , dest : 22 poids : 743 , 
+-42.5486 -44.2268 Zone 491 32502 491
+2 dest : 85 poids : 370 , dest : 150 poids : 201 , 
+-39.8788 -80.1971 Zone 492 32543 492
+1 dest : 454 poids : 324 , 
+23.6735 -33.405 Zone 493 8310 493
+3 dest : 190 poids : 567 , dest : 302 poids : 921 , dest : 156 poids : 115 , 
+-17.2298 -19.1223 Zone 494 25817 494
+1 dest : 158 poids : 699 , 
+-67.8674 24.1652 Zone 495 125 495
+1 dest : 324 poids : 294 , 
+36.0445 -65.6948 Zone 496 24588 496
+2 dest : 182 poids : 741 , dest : 445 poids : 707 , 
+-13.9998 -121.408 Zone 497 931 497
+3 dest : 448 poids : 154 , dest : 364 poids : 738 , dest : 29 poids : 328 , 
+-40.3238 -179.264 Zone 498 29613 498
+0 
+-16.719 -26.8679 Zone 499 5567 499
+3 dest : 252 poids : 860 , dest : 464 poids : 590 , dest : 48 poids : 895 , 
